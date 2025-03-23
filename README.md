@@ -1,6 +1,5 @@
 :nerd_face:
-A well-written README provides essential information about your project,
-such as installation instructions, usage examples and contributions guidelines.
+Here we'll explore how well a recurrent convolutional neural network (CNN) works aginst shallow CNN when trained on object categorization task.
 
 # List of usefull commands:
 all command should run under project root/working-directory
